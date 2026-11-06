@@ -1,0 +1,6 @@
+{
+  "name": "Inson Anatomiyasi — Interaktiv Atlas",
+  "description": "Inson tanasi tuzilishi, 206 ta suyak, ichki a'zolar, fiziologik tizimlar, kasalliklar statistikasi va profilaktika bo'yicha interaktiv atlas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
